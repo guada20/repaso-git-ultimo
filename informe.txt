@@ -1,1 +1,6 @@
 hoy realizaremos la ultima practica de git para continuar con python
+realizamos una carpeta la cual abrimos con visual studio code, despues abrimos la carpeta con git bash
+e inicializamos git, despues vimos el estado, al ver que los archivos no estaban adicionados los adicionamos con 
+git add . , luego vimos de nuevo el estado del repositorio, y vemos que ya esta guardado.,
+despues realizamos nuestro primer commit con el nombre "ultima practica con git".
+y luego volvimos al archivo en visual studio code para hacer un resumen de lo realizado.
